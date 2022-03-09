@@ -1,6 +1,6 @@
-const listadepecas= ['pecas de teste','AB','peca b',]
+const listadepecas= ['pecas de teste','AB','peca b','peca 123']
 
-console.log('quantidade de caracteres');
+console.log(listadepecas);
 
 if(listadepecas.length<=10){
     console.log('as pecas podem ser cadastradas');
